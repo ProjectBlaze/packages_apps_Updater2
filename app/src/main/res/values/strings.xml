@@ -164,4 +164,7 @@
     <string name="local_update_import_failure">Failed to import local update</string>
     <string name="local_update_import_install">Install</string>
     <string name="local_update_name">Local update</string>
+
+    <!-- Blocked dialog -->
+    <string name="blocked_update_dialog_message_custom">This update cannot be installed using the updater app. Try installing update via recovery.</string>
 </resources>
